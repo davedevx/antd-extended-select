@@ -1,0 +1,52 @@
+{
+  "name": "antd-extended-select",
+  "version": "1.0.0",
+  "description": "Ability to add options with explanations to Ant Design's Select",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-app-rewired start",
+    "build": "react-app-rewired build",
+    "lint": "eslint src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daveedx/antd-extended-select.git"
+  },
+  "keywords": [
+    "javascript",
+    "javascript-es6",
+    "react",
+    "reactjs",
+    "antd",
+    "antdesign",
+    "flow",
+    "flowtype"
+  ],
+  "author": "David Bodrogi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daveedx/antd-extended-select/issues"
+  },
+  "homepage": "https://github.com/daveedx/antd-extended-select#readme",
+  "dependencies": {
+    "antd": "^3.8.1",
+    "react": "^16.4.2",
+    "react-app-rewire-less": "^2.1.2",
+    "react-dom": "^16.4.2",
+    "react-scripts": "1.1.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.6",
+    "babel-plugin-import": "^1.8.0",
+    "babel-preset-flow": "^6.23.0",
+    "eslint": "^5.3.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-flowtype": "^2.50.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.0",
+    "flow": "^0.2.3",
+    "flow-bin": "^0.78.0",
+    "react-app-rewired": "^1.5.2"
+  }
+}
